@@ -58,4 +58,4 @@ To populate the portal, the `grades.xlsx` file should follow this structure:
 
 ---
 
-*Developed by the Senior Engineering Team. For support or integration queries, contact the University Registrar IT Department.*
+*Developed by Ahmed I. Nezer with ❤️*
