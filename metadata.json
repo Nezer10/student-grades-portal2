@@ -1,0 +1,5 @@
+{
+  "name": "Academic Grade Retrieval Portal",
+  "description": "A modern, secure portal for students to retrieve their grades by verifying their credentials against a database.",
+  "requestFramePermissions": []
+}
